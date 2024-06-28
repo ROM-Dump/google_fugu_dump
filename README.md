@@ -1,0 +1,20 @@
+## fugu-user 6.0.1 MMB29M 2431559 release-keys
+- Manufacturer: asus
+- Platform: moorefield
+- Codename: fugu
+- Brand: google
+- Flavor: fugu-user
+- Release Version: 6.0.1
+- Kernel Version: 
+- Id: MMB29M
+- Incremental: 2431559
+- Tags: release-keys
+- CPU Abilist: x86,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: false
+- Locale: en-US
+- Screen Density: 320
+- Fingerprint: google/fugu/fugu:6.0.1/MMB29M/2431559:user/release-keys
+- OTA version: 
+- Branch: fugu-user-6.0.1-MMB29M-2431559-release-keys
+- Repo: google_fugu_dump
