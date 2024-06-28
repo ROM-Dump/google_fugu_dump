@@ -1,0 +1,20 @@
+## fugu-user 7.1.2 N2G47H 3783593 release-keys
+- Manufacturer: asus
+- Platform: moorefield
+- Codename: fugu
+- Brand: google
+- Flavor: fugu-user
+- Release Version: 7.1.2
+- Kernel Version: 
+- Id: N2G47H
+- Incremental: 3783593
+- Tags: release-keys
+- CPU Abilist: x86,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: false
+- Locale: en-US
+- Screen Density: 320
+- Fingerprint: google/fugu/fugu:7.1.2/N2G47H/3783593:user/release-keys
+- OTA version: 
+- Branch: fugu-user-7.1.2-N2G47H-3783593-release-keys
+- Repo: google_fugu_dump
